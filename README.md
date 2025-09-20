@@ -94,7 +94,7 @@ The core codebase is organized under the `bee` folder.
   * **Web**: "Play \[song] on YouTube"
   * **Messaging**: "Send message to \[contact]"
   * **Analysis**: "What do you see?"
-  * **Overlay**: "Launch screen overlay"
+  * **Overlay**: "Launch screen overlay" or "click on the lens button"
 * Press **ESC** anytime to interrupt.
 * Use the **web interface** for visual controls.
 
@@ -103,7 +103,7 @@ The core codebase is organized under the `bee` folder.
 ## 🎙️ Command Categories
 
 * **Application Control** → "Open \[app name]"
-* **Web Navigation** → "Go to \[website]"
+* **Web Navigation** → "Open \[website]"
 * **Communication** → "Send message to \[contact]", "Call \[contact]"
 * **Screen Analysis** → "Analyze screen", "What do you see?"
 * **System Control** → Shutdown, restart, utilities, etc.
