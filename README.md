@@ -1,6 +1,6 @@
 # Bumble
 
-**Bumble** is an advanced desktop voice assistant inspired by Jarvis.  
+**Bumble** is an advanced desktop voice assistant
 It combines **voice control, intelligent automation, AI integration, and real-time screen analysis** to deliver a powerful personal assistant experience.  
 
 The core codebase is organized under the `bee` folder.
